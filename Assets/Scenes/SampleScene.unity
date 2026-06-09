@@ -119,6 +119,225 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &23235496
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.365
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.365
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5297981
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5297981
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46830982
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.46830973
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 82.95
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+--- !u!1001 &43023967
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.68
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.79
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6878491
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.6878496
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.16390045
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.16390021
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 26.805
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+--- !u!1001 &59397999
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.51
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.42
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.66911644
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.66911685
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.22865477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.22865452
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 37.733
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
 --- !u!1 &60011336
 GameObject:
   m_ObjectHideFlags: 0
@@ -255,6 +474,152 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 60011336}
   m_CullTransparentMesh: 1
+--- !u!1001 &138323867
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.63
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.73
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5060045
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5060047
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.4939225
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.49392235
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -88.615
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+--- !u!1001 &166560762
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.3094033
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.0304904
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.58146745
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.58146775
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.40236253
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.40236217
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 69.365
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
 --- !u!1 &195561469
 GameObject:
   m_ObjectHideFlags: 0
@@ -369,6 +734,79 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &280911528
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.950332
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.21974292
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5565855
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.55658555
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.43613365
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.43613356
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 76.164
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
 --- !u!1 &305789279
 GameObject:
   m_ObjectHideFlags: 0
@@ -1338,6 +1776,152 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &788889489
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.17
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.32
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.68846035
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.6884606
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.16131394
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.1613139
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -26.374
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+--- !u!1001 &819463776
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.45
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.01
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -1486,6 +2070,79 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1010424781
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.7005374
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.0898256
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7036366
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.70363677
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.06996743
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.069967344
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 11.357
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
 --- !u!1 &1087492872
 GameObject:
   m_ObjectHideFlags: 0
@@ -1684,6 +2341,152 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   board: {fileID: 195561471}
   hand: {fileID: 2055722173}
+--- !u!1001 &1179265461
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.6597637
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.6401823
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.37534896
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.3753489
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5992606
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5992605
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 115.878
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+--- !u!1001 &1192443985
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.910197
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.5499321
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.49074972
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.49074996
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5090823
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5090819
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 92.101
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
 --- !u!1 &1244886035
 GameObject:
   m_ObjectHideFlags: 0
@@ -1779,6 +2582,79 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1385346352}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1299452621
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.7300646
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.4304762
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.64689475
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.6468949
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.28552955
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.28552946
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -47.632
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (19)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
 --- !u!1 &1385346351
 GameObject:
   m_ObjectHideFlags: 0
@@ -1814,6 +2690,152 @@ Transform:
   - {fileID: 2030108919}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1399696419
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.16
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.99
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.37614587
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.37614602
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5987608
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.59876037
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 115.725
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+--- !u!1001 &1399877709
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.6192775
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.4298096
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70702267
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.70702314
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.010891864
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.010891729
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 1.765
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (18)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
 --- !u!1 &1461749728
 GameObject:
   m_ObjectHideFlags: 0
@@ -2107,6 +3129,79 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!1001 &1595519576
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.57124364
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.9779663
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6244395
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.62443954
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.33177608
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.33177602
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 55.965
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
 --- !u!1 &1612779816
 GameObject:
   m_ObjectHideFlags: 0
@@ -2259,6 +3354,79 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1461749729}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1741018381
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.853
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.285
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5293451
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5293451
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46882176
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.46882167
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 83.06
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
 --- !u!1 &1846221022
 GameObject:
   m_ObjectHideFlags: 0
@@ -2337,6 +3505,298 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1846221022}
   m_CullTransparentMesh: 1
+--- !u!1001 &1864366859
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.63
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.05
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.47792643
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.47792688
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.52113944
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.521139
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -94.953
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (20)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+--- !u!1001 &1897112705
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.48
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.47
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.38155898
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.38155916
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.595326
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.59532547
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 114.686
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (21)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+--- !u!1001 &1925821416
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.0400996
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.7095176
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6548806
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.6548809
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.2667045
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.26670447
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -44.318
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+--- !u!1001 &2006492490
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.3802185
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.449826
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.52041185
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5204119
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.47871867
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.47871855
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 85.221
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
 --- !u!1 &2030108918
 GameObject:
   m_ObjectHideFlags: 0
@@ -2526,6 +3986,152 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2068243348}
   m_CullTransparentMesh: 1
+--- !u!1001 &2108907288
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.326
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.788
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.33736464
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.3373646
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.621438
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.6214379
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 123.007
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+--- !u!1001 &2124307750
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.9000076
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.3690946
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.18520014
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.1852004
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.682423
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.68242264
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 210.367
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04378d4495e03aa44bf3cf4935b59d8d, type: 2}
+    - target: {fileID: 919132149155446097, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Crimson_Tree_of_Desol_0603195747_texture (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e29adb2e33023824c826c914fe455ff0, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -2543,3 +4149,25 @@ SceneRoots:
   - {fileID: 245822352}
   - {fileID: 962164335}
   - {fileID: 902604710}
+  - {fileID: 819463776}
+  - {fileID: 1741018381}
+  - {fileID: 2108907288}
+  - {fileID: 280911528}
+  - {fileID: 1010424781}
+  - {fileID: 1925821416}
+  - {fileID: 788889489}
+  - {fileID: 138323867}
+  - {fileID: 166560762}
+  - {fileID: 1192443985}
+  - {fileID: 1399877709}
+  - {fileID: 43023967}
+  - {fileID: 1864366859}
+  - {fileID: 2124307750}
+  - {fileID: 1399696419}
+  - {fileID: 59397999}
+  - {fileID: 1897112705}
+  - {fileID: 23235496}
+  - {fileID: 1179265461}
+  - {fileID: 2006492490}
+  - {fileID: 1299452621}
+  - {fileID: 1595519576}

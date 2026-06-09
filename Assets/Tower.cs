@@ -3,11 +3,17 @@
 public class Tower : MonoBehaviour
 {
     [Header("Attack")]
-    public float range = 3.0f;
+    public float range = 6f;
     public float fireInterval = 0.6f;
 
     [Header("Refs")]
     public Projectile projectilePrefab;
+
+    [Tooltip("Merminin çıkacağı nokta. Boşsa tower'ın kendi pozisyonu kullanılır.")]
+    public Transform firePoint;
+
+    [Tooltip("FirePoint boşsa kullanılacak yukarı offset.")]
+    public float fallbackSpawnUp = 0.35f;
 
     private float timer;
 
@@ -23,7 +29,10 @@ public class Tower : MonoBehaviour
 
         timer = 0f;
 
-        Vector3 spawnPos = transform.position + Vector3.up * 0.7f;
+        Vector3 spawnPos;
+        if (firePoint != null) spawnPos = firePoint.position;
+        else spawnPos = transform.position + Vector3.up * fallbackSpawnUp;
+
         Projectile p = Instantiate(projectilePrefab, spawnPos, Quaternion.identity);
         p.SetTarget(target.transform);
     }
@@ -39,8 +48,6 @@ public class Tower : MonoBehaviour
         {
             UnitAgent u = hits[i].GetComponentInParent<UnitAgent>();
             if (u == null) continue;
-
-            // ✅ sadece enemy vur
             if (u.team != Team.Enemy) continue;
 
             float d = (u.transform.position - transform.position).sqrMagnitude;
